@@ -1,0 +1,29 @@
+/* Application styles */
+.content-area {
+  width: 100%;
+  height: 100vh;
+}
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: aquamarine;
+}
+
+.router-area {
+  width: 100%;
+  height: calc(100% - 100px);
+}
+
+.footer {
+  width: 100%;
+  height: 50px;
+  background-color: aquamarine;
+}
+
+.form-steps-indicator {
+  display: flex;
+  align-items: center;
+  column-gap: 20px;
+  list-style-type: none;
+  padding: 0px;
+}
